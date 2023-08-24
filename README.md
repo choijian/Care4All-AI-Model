@@ -8,7 +8,7 @@
 * lstm_modelin.ipynb : 데이터 모델링
 * pildong_data.csv : 22/08/01~23/07/31까지의 data를 합친 csv 파일
 * population_predict.h5 : 학습된 lstm 모델
-  <br></br>
+<br></br>
 
 ## 경로 지정
 `cd /content/drive/MyDrive/comma_ai_dev/Probono-AI-Model` 수정
