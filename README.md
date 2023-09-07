@@ -1,11 +1,26 @@
 # Probono-AI 모델링 및 테스트용<br></br>
 
 ## 파일 목록
-* population_data : 22/09/01~23/08/31까지의 데이터 모음 
+* population_data : 22/09/01~23/08/31까지의 서울시 데이터 모음
 * preprocessed_data : 전처리 된 지역별 데이터 모음(화곡 1동, 역촌동, 진관동, 길동)
+  * Yeokchon_pop_data.csv : 역촌동 인구 데이터
+  * Jingwan_pop_data.csv : 진관동 인구 데이터
+  * Hwagok1_pop_data.csv : 화곡1동 인구 데이터
+  * Gil_pop_data.csv : 길동 인구 데이터
+    
+* modeling_process : 지역별 데이터 모델링 과정
+  * yeokchon_modeling_process.ipynb : 역촌동 데이터 모델링 과정
+  * jingwan_modeling_process.ipynb : 진관동 데이터 모델링 과정
+  * hwagok1_modeling_process.ipynb : 화곡1동 데이터 모델링 과정
+  * gil_modeling_process.ipynb : 길동 데이터 모델링 과정
+    
+* trained_models : 지역별 fitting 된 lstm 모델
+  * yeokchon_model.h5
+  * jingwan_model.h5
+  * hwagok1_model.h5
+  * gil_model.h5
+    
 * data preprocessing.ipynb : 데이터 전처리
-* forecasting_monthly_data.ipynb : 데이터 예측
-* lstm_modelin.ipynb : 데이터 모델링
 
 <br></br>
 
