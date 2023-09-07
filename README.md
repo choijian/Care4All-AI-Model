@@ -9,10 +9,10 @@
   * Gil_pop_data.csv : 길동 인구 데이터
     
 * modeling_process : 지역별 데이터 모델링 과정
-  * yeokchon_modeling_process.ipynb : 역촌동 데이터 모델링 과정
-  * jingwan_modeling_process.ipynb : 진관동 데이터 모델링 과정
-  * hwagok1_modeling_process.ipynb : 화곡1동 데이터 모델링 과정
-  * gil_modeling_process.ipynb : 길동 데이터 모델링 과정
+  * yeokchon_modeling_process.ipynb
+  * jingwan_modeling_process.ipynb
+  * hwagok1_modeling_process.ipynb
+  * gil_modeling_process.ipynb
     
 * trained_models : 지역별 fitting 된 lstm 모델
   * yeokchon_model.h5
