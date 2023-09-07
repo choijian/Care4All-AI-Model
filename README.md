@@ -3,10 +3,10 @@
 ## 파일 목록
 * population_data : 22/09/01~23/08/31까지의 서울시 데이터 모음
 * preprocessed_data : 전처리 된 지역별 데이터 모음(화곡 1동, 역촌동, 진관동, 길동)
-  * Yeokchon_pop_data.csv : 역촌동 인구 데이터
-  * Jingwan_pop_data.csv : 진관동 인구 데이터
-  * Hwagok1_pop_data.csv : 화곡1동 인구 데이터
-  * Gil_pop_data.csv : 길동 인구 데이터
+  * Yeokchon_pop_data.csv
+  * Jingwan_pop_data.csv
+  * Hwagok1_pop_data.csv
+  * Gil_pop_data.csv
     
 * modeling_process : 지역별 데이터 모델링 과정
   * yeokchon_modeling_process.ipynb
@@ -20,7 +20,7 @@
   * hwagok1_model.h5
   * gil_model.h5
     
-* data preprocessing.ipynb : 데이터 전처리
+* data preprocessing.ipynb : 데이터 전처리 과정
 
 <br></br>
 
